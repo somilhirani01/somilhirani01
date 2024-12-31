@@ -1,6 +1,6 @@
 # Hi, I'm Somil 👋
 
-<img src="https://avatars.githubusercontent.com/u/160620349?v=4" /> 
+<img src="https://avatars.githubusercontent.com/u/160620349?v=4" width={20} height={20}/> 
 
 Welcome to my GitHub profile! I'm a passionate and skilled **Web Developer** with a strong foundation in **React.js**, **Node.js**, **MERN stack**, and a variety of front-end and back-end technologies. I love creating dynamic, user-friendly applications, and I’m always eager to learn new skills and take on exciting challenges.
 
