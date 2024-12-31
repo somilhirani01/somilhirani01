@@ -1,6 +1,5 @@
 # Hi, I'm Somil 👋
-
-<img src="https://avatars.githubusercontent.com/u/160620349?v=4" width={20} height={20}/> 
+ 
 
 Welcome to my GitHub profile! I'm a passionate and skilled **Web Developer** with a strong foundation in **React.js**, **Node.js**, **MERN stack**, and a variety of front-end and back-end technologies. I love creating dynamic, user-friendly applications, and I’m always eager to learn new skills and take on exciting challenges.
 
@@ -17,24 +16,18 @@ Welcome to my GitHub profile! I'm a passionate and skilled **Web Developer** wit
 </p>
 
 ### 🚀 Current Projects:
-- **[Netflix Clone](https://github.com/Somil-Developer/netflix-clone)**: A frontend-only Netflix clone built with React.js. Explore how I’ve designed an interactive UI with modern styling.
-  ![Netflix Clone Screenshot](https://www.example.com/netflix-clone-screenshot.jpg) <!-- Replace with your screenshot URL -->
-- **[MERN Stack Todo App](https://github.com/Somil-Developer/todo-app)**: A full-stack Todo application using MongoDB, Express.js, React.js, and Node.js (MERN stack). Features authentication, CRUD operations, and a responsive UI.
-  ![Todo App Screenshot](https://www.example.com/todo-app-screenshot.jpg) <!-- Replace with your screenshot URL -->
-- **[Freelance Portfolio](https://github.com/Somil-Developer/freelance-portfolio)**: A personal portfolio to showcase my web development services and experience.
-  ![Freelance Portfolio Screenshot](https://www.example.com/portfolio-screenshot.jpg) <!-- Replace with your screenshot URL -->
+- **[Portfolio Website](https://somil-hirani.netlify.app)**: A full stack project built with React.js and Node.js . Explore how I’ve designed an interactive UI with modern styling.
+
 
 ### 💡 What I’m currently working on:
 - **Building Android Apps**: I’m learning how to create Android apps using React Native.
 - **Freelance Projects**: I’m working with clients to build custom websites and web applications.
 
-### 📈 GitHub Stats:
-![Somil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somil-Developer&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### 📬 Get in touch:
-- Email: [somil.email@example.com](mailto:somil.email@example.com)
-- LinkedIn: [Somil's LinkedIn](https://www.linkedin.com/in/somil-developer)
-- Fiverr: [Somil's Fiverr Profile](https://www.fiverr.com/somil-developer)
+- Email: [somil556699@gmail.com](mailto:somil.email@example.com)
+- LinkedIn: [Somil's LinkedIn](https://www.linkedin.com/in/somilhirani/)
+- Fiverr: [Somil's Fiverr Profile](https://www.fiverr.com/somil_hirani)
 
 ---
 
