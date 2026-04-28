@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate and skilled **Web Developer** wit
 </p>
 
 ### 🚀 Current Projects:
-- **[Portfolio Website](https://somil-hirani.netlify.app)**: A full stack project built with React.js and Node.js . Explore how I’ve designed an interactive UI with modern styling.
+- **[Portfolio Website](https://somilhirani.netlify.app)**: A full stack project built with React.js and Node.js . Explore how I’ve designed an interactive UI with modern styling.
 
 
 ### 💡 What I’m currently working on:
